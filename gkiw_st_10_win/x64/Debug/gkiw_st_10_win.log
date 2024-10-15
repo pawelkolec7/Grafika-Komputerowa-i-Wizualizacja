@@ -1,0 +1,23 @@
+﻿  cube.cpp
+  lodepng.cpp
+C:\Users\kolec\Desktop\GRAFA\Projekt grafika\lodepng.cpp(762,10): warning C4334: "<<": wynik 32-bitowe przesunięcia niejawnie skonwertowano do 64 bitów (czy 64-bitowe przesunięcie było zamierzone?)
+C:\Users\kolec\Desktop\GRAFA\Projekt grafika\lodepng.cpp(1422,25): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\kolec\Desktop\GRAFA\Projekt grafika\lodepng.cpp(1426,27): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\kolec\Desktop\GRAFA\Projekt grafika\lodepng.cpp(1498,32): warning C4267: "=": konwersja z "size_t" do "unsigned int", możliwa utrata danych
+C:\Users\kolec\Desktop\GRAFA\Projekt grafika\lodepng.cpp(3441,25): warning C4334: "<<": wynik 32-bitowe przesunięcia niejawnie skonwertowano do 64 bitów (czy 64-bitowe przesunięcie było zamierzone?)
+C:\Users\kolec\Desktop\GRAFA\Projekt grafika\lodepng.cpp(3455,53): warning C4267: "argument": konwersja z "size_t" do "unsigned int", możliwa utrata danych
+C:\Users\kolec\Desktop\GRAFA\Projekt grafika\lodepng.cpp(4262,26): warning C4267: "=": konwersja z "size_t" do "unsigned int", możliwa utrata danych
+C:\Users\kolec\Desktop\GRAFA\Projekt grafika\lodepng.cpp(4310,26): warning C4267: "=": konwersja z "size_t" do "unsigned int", możliwa utrata danych
+C:\Users\kolec\Desktop\GRAFA\Projekt grafika\lodepng.cpp(4390,26): warning C4267: "=": konwersja z "size_t" do "unsigned int", możliwa utrata danych
+C:\Users\kolec\Desktop\GRAFA\Projekt grafika\lodepng.cpp(5329,27): warning C4267: "inicjowanie": konwersja z "size_t" do "unsigned int", możliwa utrata danych
+  main_file.cpp
+  model.cpp
+C:\Users\kolec\Desktop\GRAFA\Projekt grafika\main_file.cpp(19,10): error C1083: Nie można otworzyć pliku dołącz: 'assimp/Importer.hpp': No such file or directory
+  shaderprogram.cpp
+C:\Users\kolec\Desktop\GRAFA\Projekt grafika\shaderprogram.cpp(60,15): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+  sphere.cpp
+C:\Users\kolec\Desktop\GRAFA\Projekt grafika\sphere.cpp(123,36): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+  teapot.cpp
+  torus.cpp
+C:\Users\kolec\Desktop\GRAFA\Projekt grafika\torus.cpp(123,36): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+  Generowanie kodu...

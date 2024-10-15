@@ -1,0 +1,15 @@
+﻿  main_file.cpp
+C:\Users\kolec\Desktop\Projekt grafika\main_file.cpp(126,11): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\kolec\Desktop\Projekt grafika\main_file.cpp(127,11): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\kolec\Desktop\Projekt grafika\main_file.cpp(132,16): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\kolec\Desktop\Projekt grafika\main_file.cpp(133,16): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\kolec\Desktop\Projekt grafika\main_file.cpp(134,10): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\kolec\Desktop\Projekt grafika\main_file.cpp(135,10): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\kolec\Desktop\Projekt grafika\main_file.cpp(170,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\kolec\Desktop\Projekt grafika\main_file.cpp(184,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\kolec\Desktop\Projekt grafika\main_file.cpp(186,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\kolec\Desktop\Projekt grafika\main_file.cpp(422,32): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\kolec\Desktop\Projekt grafika\main_file.cpp(423,32): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\kolec\Desktop\Projekt grafika\main_file.cpp(549,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\kolec\Desktop\Projekt grafika\main_file.cpp(582,18): warning C4244: "+=": konwersja z "double" do "float", możliwa utrata danych
+  gkiw_st_10_win.vcxproj -> C:\Users\kolec\Desktop\Projekt grafika\Debug\gkiw_st_10_win.exe
